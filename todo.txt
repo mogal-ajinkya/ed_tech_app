@@ -1,0 +1,4 @@
+passing props from app to navbar islooged
+
+toast
+icons
